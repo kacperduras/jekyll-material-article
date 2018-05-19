@@ -1,0 +1,11 @@
+<footer class="demo-footer mdl-mini-footer">
+  <div class="mdl-mini-footer--left-section">
+    <ul class="mdl-mini-footer--link-list">
+      {% if site.footer %}
+        {% for target in site.footer %}
+          <li><a href="{{ target.url }}">{{ target.name }}</a></li>
+        {% endfor %}
+      {% endif %}
+    </ul>
+  </div>
+</footer>

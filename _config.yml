@@ -1,0 +1,24 @@
+lang: en_US
+title: Material article
+description: An article template in Material, rewritten to Jekyll
+
+material:
+  version: 1.3.0
+  color: indigo-pink
+
+footer:
+  - name: Original template
+    url: https://github.com/google/material-design-lite/tree/mdl-1.x/templates/article
+  - name: jekyll-material-article repository
+    url: https://github.com/kacperduras/jekyll-material-article
+
+plugins:
+  - jekyll-seo-tag
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - CNAME
+  - LICENSE
+  - .gitignore
+  - README.md
