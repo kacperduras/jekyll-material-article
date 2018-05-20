@@ -1,4 +1,4 @@
-# jekyll-material-article
+# jekyll-material-article [![Build Status](https://travis-ci.org/kacperduras/jekyll-material-article.svg?branch=master)](https://travis-ci.org/kacperduras/jekyll-material-article)
 
 An [article template in Material](https://github.com/kacperduras/jekyll-material-article/), rewritten to [Jekyll](https://github.com/jekyll/jekyll/) :)
 
